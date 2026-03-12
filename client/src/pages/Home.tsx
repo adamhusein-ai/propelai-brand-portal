@@ -112,6 +112,12 @@ export default function Home() {
             >
               Assets
             </a>
+            <a
+              href="/downloads"
+              className="text-sm font-heading text-propel-blue hover:text-propel-teal transition"
+            >
+              Downloads
+            </a>
           </nav>
         </div>
       </header>
